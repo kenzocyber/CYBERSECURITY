@@ -1,4 +1,4 @@
-# CYBER SECURITY
+
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -136,7 +136,7 @@
   </section>
 
   <footer>
-    <p>DIBUAT OLEH: <strong>LEADERS</strong></p>
+    <p>DIBUAT OLEH: <strong>KENZO</strong></p>
     <p>DIDUKUNG OLEH: <strong>BERITAPAYAKUMBUHH</strong></p>
     <p>SEMUA HAK CIPTA DILINDUNGI UNDANG-UNDANG</p>
     <p><em>NOTE:</em> Jika Anda membutuhkan kami atau ingin memakai jasa kami, segera hubungi kontak di atas.</p>
