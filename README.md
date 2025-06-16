@@ -1,5 +1,4 @@
-# CYBERSECURITY
-<!DOCTYPE html>
+# CYBER SECURITY
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
@@ -103,7 +102,8 @@
 
   <header>
     <h1>PAYAKUMBUH CYBER</h1>
-    <p>WEBSITE INI MASIH DALAM PENGEMBANGAN<br> TUNGGU VERSI TERBARU NYA!</p>
+    <p>Kami berasal dari rasa penasaran, bergerak untuk pertahanan digital.<br>
+    <strong>Payakumbuh Cyber Defense</strong> — dari rasa ingin tahu, menuju perlindungan siber.</p>
   </header>
 
   <section>
@@ -137,7 +137,7 @@
 
   <footer>
     <p>DIBUAT OLEH: <strong>LEADERS</strong></p>
-    <p>DIDUKUNG OLEH: KOMINFO</p>
+    <p>DIDUKUNG OLEH: <strong>BERITAPAYAKUMBUHH</strong></p>
     <p>SEMUA HAK CIPTA DILINDUNGI UNDANG-UNDANG</p>
     <p><em>NOTE:</em> Jika Anda membutuhkan kami atau ingin memakai jasa kami, segera hubungi kontak di atas.</p>
   </footer>
